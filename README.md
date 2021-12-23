@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elRuidoEse
-- 👀 I’m interested in GameDev and Web Developing 
+- 👋 Hi, I’m Regina
+- 👀 I’m interested in Web Developing and GameDev
 - 🌱 I’m currently learning html, JS, CSS
 - 💞️ I’m looking to collaborate on games 
 - 📫 How to reach me Twitter: @elRuidoEse_
