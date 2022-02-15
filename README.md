@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Regina
-- 👀 I’m interested in Web Developing and GameDev
-- 🌱 I’m currently learning html, JS, CSS
+- 👀 I’m interested in WebDev and GameDev
+- 🌱 I’m currently learning. Padawan at Skills for Woman in Tech 💜👩🏻‍💻
 - 💞️ I’m looking to collaborate on games 
 - 📫 How to reach me Twitter: @elRuidoEse_
 
